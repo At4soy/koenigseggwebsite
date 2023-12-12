@@ -2,7 +2,8 @@
 
 <p id="description">Responsive tasarımlara sahip % ile tasarlanmış web sitesi. Koenigsegg adlı araba markası adına yapılmıştır. Ana menü dahil 13 adet sayfa bulunmaktadır. Dosya içerisinde şahsım tarafından tasarlanmış kapak fotoğrafları ve içerik fotoğrafları bulunmaktadır.</p>
 
-<p align="center"><img src="https://img.shields.io/badge/HTML5-Proficient-red?style=flat&amp;logo=html5" alt="shields"><img src="https://img.shields.io/badge/CSS3-Proficient-orange?style=flat&amp;logo=css3" alt="shields"><img src="https://img.shields.io/badge/JavaScript-Proficient-yellow?style=flat&amp;logo=javascript" alt="shields"></p>
+<p align="center"><img src="https://img.shields.io/badge/HTML5-Proficient-red?style=flat&amp;logo=html5" alt="shields">
+  &nbsp; <img src="https://img.shields.io/badge/CSS3-Proficient-orange?style=flat&amp;logo=css3" alt="shields"> &nbsp; <img src="https://img.shields.io/badge/JavaScript-Proficient-yellow?style=flat&amp;logo=javascript" alt="shields"></p>
 
 <h2>Project Screenshots:</h2>
 
@@ -22,7 +23,8 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Tüm kodlar "rar" dsoyası içerisinde bulunmaktadır. index.html ile açabilirsiniz.</p>
+<p>1. Tüm kodlar "rar" dosyası içerisinde bulunmaktadır.</p>
+<p>2. "rar" dosyasını klasöre ayıklayın ve içerisinde bulunan "index.html" dosyasını açınız</p>
 
 <h2>🛡️ License:</h2>
 
