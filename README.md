@@ -1,7 +1,7 @@
 <h1 align="center" id="title">Koenigsegg Responsive Website</h1>
 
 <p id="description">🇹🇷 Responsive tasarımlara sahip % ile tasarlanmış web sitesi. Koenigsegg adlı araba markası adına yapılmıştır. Ana menü dahil 13 adet sayfa bulunmaktadır. Dosya içerisinde şahsım tarafından tasarlanmış kapak fotoğrafları ve içerik fotoğrafları bulunmaktadır.</p>
-<p id="description">--------------------------------------------------------------------------------------------------------------------------------------</p>
+<p id="description">----------------------------------------------------------------------------------------------------------------</p>
 <p id="description">🇬🇧 Website designed with % with responsive designs. It was made on behalf of the car brand called Koenigsegg. There are 13 pages including the main menu. There are cover photos and content photos designed by me in the file.</p>
 
 <p align="center"><img src="https://img.shields.io/badge/HTML5-Proficient-red?style=flat&amp;logo=html5" alt="shields"><img src="https://img.shields.io/badge/CSS3-Proficient-orange?style=flat&amp;logo=css3" alt="shields"><img src="https://img.shields.io/badge/JavaScript-Proficient-yellow?style=flat&amp;logo=javascript" alt="shields"></p>
