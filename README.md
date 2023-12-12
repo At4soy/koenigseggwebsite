@@ -20,6 +20,10 @@ Here're some of the project's best features:
 *   Animation Transition Texts
 *   Animated Navbar
 
+<h2>🛠️ Installation Steps:</h2>
+
+<p>1. Tüm kodlar "rar" dsoyası içerisinde bulunmaktadır. index.html ile açabilirsiniz.</p>
+
 <h2>🛡️ License:</h2>
 
 This project is licensed under the MIT License
