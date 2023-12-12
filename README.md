@@ -23,8 +23,7 @@ Here're some of the project's best features:
 
 <h2>🛠️ Installation Steps:</h2>
 
-<p>1. Tüm kodlar "rar" dosyası içerisinde bulunmaktadır.</p>
-<p>2. "rar" dosyasını klasöre ayıklayın ve içerisinde bulunan "index.html" dosyasını açınız</p>
+<p>1. İçerisinde bulunan "index.html" dosyasını açınız</p>
 
 <h2>🛡️ License:</h2>
 
